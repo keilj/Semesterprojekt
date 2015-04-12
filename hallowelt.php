@@ -7,6 +7,7 @@
 <body>
 		<?php
 			echo "<p>Hallö Wält!</p>";
+			echo "<p>noch mal Hallo</p>"
 		?>
 </body>
 </html>
