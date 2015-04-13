@@ -6,7 +6,9 @@
 </head>
 <body>
 		<?php
-			echo "<p>Hallö Wält!</p>";
+			//echo "<p>Hallö Wält!</p>";
+			echo "<p>Halloe Waelt!</p>";
+			//Editiert über Github by Tobias: Umlaute geändert
 		?>
 </body>
 </html>
