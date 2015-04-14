@@ -9,6 +9,7 @@
 			//echo "<p>Hallö Wält!</p>";
 			echo "<p>Halloe Waelt!</p>";
 			//Editiert über Github by Tobias: Umlaute geändert
+			//edit
 		?>
 </body>
 </html>
